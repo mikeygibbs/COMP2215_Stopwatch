@@ -1,1 +1,1 @@
-Code addapted from LCD-usage-sample to make a stop watch
+Code addapted from LCD-usage-sample to make a stop watch designed to be used on a La Fortuna
