@@ -1,0 +1,1 @@
+Code addapted from LCD-usage-sample to make a stop watch
